@@ -37,6 +37,12 @@ vim.keymap.set("n", "!", function()
 end, { desc = "Toggle boolean under cursor" })
 ```
 
+### Example
+
+[Watch the usage example video](./banger_example.mp4)
+
+<video src="./banger_example.mp4" controls></video>
+
 ## Configuration
 
 These are the default options:

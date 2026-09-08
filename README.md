@@ -39,9 +39,7 @@ end, { desc = "Toggle boolean under cursor" })
 
 ### Example
 
-[Watch the usage example video](./banger_example.mp4)
-
-<video src="./banger_example.mp4" controls></video>
+![Usage example](./banger_example.gif)
 
 ## Configuration
 
